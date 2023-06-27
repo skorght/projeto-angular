@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Arcade",
+      "descricao": "Arcade Game, vários em um",
+      "foto": "jogo1.PNG",
+      "preco": 329.9
+    },
+    {
+      "id": 2,
+      "produto": "Malrio",
+      "descricao": "Cópia boa de Mário",
+      "foto": "jogo2.PNG",
+      "preco": 249.99
+    },
+    {
+      "id": 3,
+      "produto": "Controle Virtual",
+      "descricao": "controle simulado no computador",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    }
+  ]
+}
